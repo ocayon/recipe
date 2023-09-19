@@ -1,1 +1,3 @@
-This is the readme file
+# Guacamole recipe
+
+This is an exercise repository.
