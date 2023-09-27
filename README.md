@@ -10,8 +10,9 @@ This is an exercise repository.
 
 > [!WARNING]
 > Critical content demanding immediate user attention due to potential risks.
->
-> <details>
+
+
+<details>
 <summary>
 Short summary
 </summary>
@@ -26,4 +27,4 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
 [![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)](https://example.org)
 
-![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)
+![please replace with alt text](https://img.shields.io/badge/anytext-youlike-blue)  
